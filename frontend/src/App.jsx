@@ -37,7 +37,7 @@ export default function App() {
           <h1>
             <span className="logo">🍜</span> BeautifulSoup4 Extractor
           </h1>
-          <p className="subtitle">Parse any URL or raw HTML using Python's BeautifulSoup4</p>
+          <p className="subtitle">Parse anyy URL or raw HTML using Python's BeautifulSoup4</p>
         </div>
       </header>
 
